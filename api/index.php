@@ -1,5 +1,4 @@
 <?php
-phpinfo();   
 include "servicos/servicoMensagemSessao.php";
 ?>
 <!DOCTYPE html>
